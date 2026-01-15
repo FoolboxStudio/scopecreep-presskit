@@ -38,8 +38,10 @@
       "assets/scopecreep_logo_transparent.png"
     ],
     "assets": [
-      "assets/scopecreep_logo.png",
-      "assets/scopecreep_logo_transparent.png"
+      "assets/pentagram.png",
+      "assets/upgrade_tree.png",
+      "assets/pentagram_and_pillars.png",
+      "assets/hands.png"
     ]
   },
   "downloads": {
