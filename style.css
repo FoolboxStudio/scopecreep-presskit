@@ -200,6 +200,12 @@ nav a {
         .link-list a:hover {
             text-decoration: underline;
         }
+    
+    .link-list.horizontal{
+        gap: 1em;
+        flex-direction: row;
+        display: flex;
+    }
 
 /* Footer */
 footer {
