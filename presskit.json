@@ -1,10 +1,10 @@
 {
   "game": {
     "title": "SCOPECREEP",
-    "pitch": "A whispering flame craves souls. With each offering, your resolve strengthens. Fight spirits, collect their essences, and feed a hunger that may never subside in this short eerie incremental game.",
+    "pitch": "A whispering flame craves souls. With each offering, your resolve strengthens. Fight spirits, collect their essences, and feed a hunger that may never subside in this short active incremental.",
     "storepage": "https://store.steampowered.com/app/3595710/",
     "storewidget": "https://store.steampowered.com/widget/3595710/",
-    "trailer": "https://www.youtube.com/watch?v=1ST-zEJHEJQ"
+    "trailer": "https://www.youtube.com/watch?v=VULOdzjplzg"
   },
   "developer": {
     "name": "Foolbox Studio",
@@ -25,11 +25,13 @@
   "media": {
     "capsule": "assets/capsule.jpg",
     "screenshots": [
-      "assets/screenshot1.png",
-      "assets/screenshot2.png",
-      "assets/screenshot3.png",
-      "assets/screenshot4.png",
-      "assets/screenshot5.png"
+      "assets/steam_screenshot_1.png",
+      "assets/steam_screenshot_2.png",
+      "assets/steam_screenshot_3.png",
+      "assets/steam_screenshot_4.png",
+      "assets/steam_screenshot_5.png",
+      "assets/steam_screenshot_6.png",
+      "assets/steam_screenshot_7.png"
     ],
     "logos": [
       "assets/logo1.png",
