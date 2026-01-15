@@ -34,16 +34,12 @@
       "assets/steam_screenshots_7.png"
     ],
     "logos": [
-      "assets/logo1.png",
-      "assets/logo2.png",
-      "assets/logo3.png",
-      "assets/logo4.png"
+      "assets/scopecreep_logo.png",
+      "assets/scopecreep_logo_transparent.png"
     ],
     "assets": [
-      "assets/logo1.png",
-      "assets/logo2.png",
-      "assets/logo3.png",
-      "assets/logo4.png"
+      "assets/scopecreep_logo.png",
+      "assets/scopecreep_logo_transparent.png"
     ]
   },
   "downloads": {
