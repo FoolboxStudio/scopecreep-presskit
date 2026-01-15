@@ -20,20 +20,26 @@
     "Release Date": "Q2 2026",
     "Genre": "Incremental, Casual, Simulation",
     "Modes": "Singleplayer",
-    "Platforms": "Windows"
+    "Platforms": "Windows, Linux"
   },
   "media": {
-    "capsule": "assets/capsule.jpg",
+    "capsule": "assets/capsule.png",
     "screenshots": [
-      "assets/steam_screenshot_1.png",
-      "assets/steam_screenshot_2.png",
-      "assets/steam_screenshot_3.png",
-      "assets/steam_screenshot_4.png",
-      "assets/steam_screenshot_5.png",
-      "assets/steam_screenshot_6.png",
-      "assets/steam_screenshot_7.png"
+      "assets/steam_screenshots_1.png",
+      "assets/steam_screenshots_2.png",
+      "assets/steam_screenshots_3.png",
+      "assets/steam_screenshots_4.png",
+      "assets/steam_screenshots_5.png",
+      "assets/steam_screenshots_6.png",
+      "assets/steam_screenshots_7.png"
     ],
     "logos": [
+      "assets/logo1.png",
+      "assets/logo2.png",
+      "assets/logo3.png",
+      "assets/logo4.png"
+    ],
+    "assets": [
       "assets/logo1.png",
       "assets/logo2.png",
       "assets/logo3.png",

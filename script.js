@@ -50,6 +50,11 @@ async function loadPresskit() {
             logosGrid.innerHTML += `<a href="${src}" target="_blank"><img src="${src}"></a>`;
         });
 
+        const assetsGrid = document.getElementById('assets-grid');
+        data.media.assets.forEach(src => {
+            assetsGrid.innerHTML += `<a href="${src}" target="_blank"><img src="${src}"></a>`;
+        });
+
         // Developer Section
         document.getElementById('dev-name').textContent = data.developer.name;
         const contactList = document.getElementById('dev-contact');
