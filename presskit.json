@@ -35,12 +35,16 @@
     ],
     "logos": [
       "assets/scopecreep_logo.png",
-      "assets/scopecreep_logo_transparent.png"
+      "assets/scopecreep_logo_transparent.png",
+      "assets/store_capsule_header.png",
+      "assets/store_capsule_main.png",
+      "assets/store_capsule_vertical.png"
     ],
     "assets": [
       "assets/pentagram.png",
       "assets/upgrade_tree.png",
       "assets/pentagram_and_pillars.png",
+      "assets/flames.png",
       "assets/hands.png"
     ]
   },
